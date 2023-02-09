@@ -11,6 +11,7 @@ If you got any problems, write to "Issues" page or write a e-mail to my address 
 --PC SPECS--                                                  
 (WF)= Works Fine.                                                   
 (NW)= Not Working.
+
 Intel Core i5-10210U 4C/8T (WF)                                                  
 Intel UHD 630 Integrated GPU (WF)                                                  
 Crucial 16GB DDR4 2666MHz SO-DIMM RAM (WF)                                                  
